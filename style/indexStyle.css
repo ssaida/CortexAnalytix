@@ -60,7 +60,8 @@ header a:hover{
 /* Showcase */
 #showcase{
     min-height: 400px;
-    background: url('./images/brainNew.jpg') no-repeat;
+    background-image: url(../images/brainNew.jpg);
+    background-repeat:  no-repeat;
     background-size: cover;
     height: 600px;
     text-align: center;
